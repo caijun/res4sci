@@ -1,0 +1,19 @@
+---
+header-includes: \usepackage{xeCJK}
+link-citations: yes
+output:
+  pdf_document:
+    fig_caption: no
+    latex_engine: xelatex
+  md_document:
+    variant: gfm
+---
+
+# Resources for Science
+
+- [Guides to Better Science](https://www.britishecologicalsociety.org/publications/guides-to/) from British Ecological Society
+
+## Useful Tools or Websites
+- [Overleaf](https://www.overleaf.com/): real-time collaborative writing and publishing tools with integrated PDF preview
+- [VizioMetrics](http://viziometrics.org/): search equations, diagrams, visualizations, and photographs in scientific papers
+- [Find and edit CSL citation styles](http://editor.citationstyles.org/about/)
