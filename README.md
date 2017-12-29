@@ -8,6 +8,8 @@
 
   - [Overleaf](https://www.overleaf.com/): real-time collaborative
     writing and publishing tools with integrated PDF preview
+  - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): an
+    academic writing resource for students and researchers
   - [VizioMetrics](http://viziometrics.org/): search equations,
     diagrams, visualizations, and photographs in scientific papers
   - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): a
