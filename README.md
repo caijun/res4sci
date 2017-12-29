@@ -3,6 +3,9 @@
   - [Guides to Better
     Science](https://www.britishecologicalsociety.org/publications/guides-to/)
     from British Ecological Society
+      - \[x\] A Guide to Reproducible Code in Ecology and Evolution
+  - [Ten Simple Rules](http://collections.plos.org/ten-simple-rules)
+    from PLOS Computational Biology
 
 ## Useful Tools or Websites
 
