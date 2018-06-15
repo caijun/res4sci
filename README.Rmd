@@ -2,11 +2,11 @@
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  md_document:
+    variant: gfm
   pdf_document:
     fig_caption: no
     latex_engine: xelatex
-  md_document:
-    variant: gfm
 ---
 
 # Resources for Science
@@ -18,6 +18,7 @@ output:
 ## Useful Tools or Websites
 - [Overleaf](https://www.overleaf.com/): real-time collaborative writing and publishing tools with integrated PDF preview
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): an academic writing resource for students and researchers
+- [Sci-Hub.Love](https://sci-hub.love/): the latest Sci-Hub working domain
 - [VizioMetrics](http://viziometrics.org/): search equations, diagrams, visualizations, and photographs in scientific papers
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): a semi-automated tool to reverse engineer images of data visualizations to extract the underlying numerical data
 - [Find and edit CSL citation styles](http://editor.citationstyles.org/about/)
