@@ -1,32 +1,42 @@
-# Resources for Science
+-   [Resources for Science](#resources-for-science)
+    -   [Useful Tools or Websites](#useful-tools-or-websites)
+    -   [Contributing](#contributing)
 
-  - [Guides to Better
+Resources for Science
+=====================
+
+-   [Guides to Better
     Science](https://www.britishecologicalsociety.org/publications/guides-to/)
     from British Ecological Society
-      - \[x\] A Guide to Reproducible Code in Ecology and Evolution
-  - [Ten Simple Rules](http://collections.plos.org/ten-simple-rules)
+    -   ☒ A Guide to Reproducible Code in Ecology and Evolution
+-   [Ten Simple Rules](http://collections.plos.org/ten-simple-rules)
     from PLOS Computational Biology
 
-## Useful Tools or Websites
+Useful Tools or Websites
+------------------------
 
-  - [Overleaf](https://www.overleaf.com/): real-time collaborative
-    writing and publishing tools with integrated PDF preview
-  - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): an
+-   [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): an
     academic writing resource for students and researchers
-  - [Sci-Hub.Love](https://sci-hub.love/): the latest Sci-Hub working
-    domain
-  - [VizioMetrics](http://viziometrics.org/): search equations,
+-   [Sci-Hub.Love](https://lovescihub.wordpress.com/): the latest
+    Sci-Hub working domain
+-   [VizioMetrics](http://viziometrics.org/): search equations,
     diagrams, visualizations, and photographs in scientific papers
-  - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): a
+-   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): a
     semi-automated tool to reverse engineer images of data
     visualizations to extract the underlying numerical data
-  - [Find and edit CSL citation
-    styles](http://editor.citationstyles.org/about/)
+-   LaTeX
+    -   [Overleaf](https://www.overleaf.com/): real-time collaborative
+        writing and publishing tools with integrated PDF preview
+    -   [Find and edit CSL citation
+        styles](http://editor.citationstyles.org/about/)
+    -   [Create LaTeX tables online](https://www.tablesgenerator.com/)
 
-## Contributing
+Contributing
+------------
 
-Your contributions are always welcome\!
+Your contributions are always welcome!
 
 This work is distributed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License - [CC
-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+BY-NC-SA
+4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
